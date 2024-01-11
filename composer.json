@@ -1,0 +1,14 @@
+{
+  "name": "tiennguy/328/hello" ,
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Tien Nguyen",
+      "email": "tiennguyen3354@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
